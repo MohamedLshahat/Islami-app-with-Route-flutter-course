@@ -1,0 +1,20 @@
+{
+  "appTitle": "إسلامي",
+  "chapterTitle": "إسم السورة",
+  "versesNumber": "عدد الآيات",
+  "quranTab": "القرآن",
+  "hadithTab": "الحديث",
+  "tasbihTab": "السبحة",
+  "radioTab": "الإذاعة",
+  "alahadith": "الأحاديث",
+  "praisesNumber": "عدد التسبيحات",
+  "settings": "الإعدادات",
+  "radio": "إذاعة القرآن الكريم",
+  "theme": "المظهر",
+  "lang": "اللغة",
+  "light": "فاتح",
+  "dark": "غامق",
+  "arabic": "العربية",
+  "english": "الإنجليزية"
+
+}
